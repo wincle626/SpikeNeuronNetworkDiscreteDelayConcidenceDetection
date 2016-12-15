@@ -8,6 +8,6 @@ These networks can exhibit highly complex dynamics and potentially related to co
 
 Compile using: gcc arbn.c automaton_viewer.c -o arbn -lcurses -lgsl -I/usr/local/include/gsl
 
-Related PhD thesis: Neural Coding via Transmission Delay Coincidence Detectors [electronic resource] : An Embodied Approach. Francis Jeanson, Carleton University, Ottawa, 2014, http://catalogue.library.carleton.ca/record=b3614186
+Related PhD thesis: Neural Coding via Transmission Delay Coincidence Detectors: An Embodied Approach. Francis Jeanson, Carleton University, Ottawa, 2014, http://catalogue.library.carleton.ca/record=b3614186
 
 Related paper: Jeanson, F., White, T. (2013). Dynamic Memory for Robot Control using Delay-based Coincidence Detection Neurones. In Artificial neural networks and machine learning, ICANN, Springer, pages 280–287. 
